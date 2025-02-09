@@ -1,4 +1,4 @@
-npx create-expo-app@latest ---template blank RNCourse
+npx create-expo-app@latest --template blank RNCourse
 
 
 npm start
